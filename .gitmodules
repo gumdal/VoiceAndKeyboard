@@ -1,0 +1,3 @@
+[submodule "SoundWave"]
+	path = SoundWave
+	url = git@github.com:gumdal/SoundWave.git
